@@ -1,0 +1,52 @@
+ body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background-color: #f9f9f9;
+    }
+
+    h1 {
+      color: green;
+    }
+
+    h2 {
+      color: blueviolet;
+    }
+
+    h3 {
+      color: darkblue;
+    }
+
+    h4#heading {
+      color: darkred;
+    }
+
+    a:hover {
+      color: orange;
+    }
+
+    ul {
+      list-style-type: circle;
+    }
+
+    .highlight {
+      color: red;
+      font-weight: bold;
+    }
+
+    img {
+      border-radius: 10px;
+      margin-top: 10px;
+    }
+
+    button {
+      padding: 10px 20px;
+      background-color: royalblue;
+      color: white;
+      border: none;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+
+    button:hover {
+      background-color: darkblue;
+    }
